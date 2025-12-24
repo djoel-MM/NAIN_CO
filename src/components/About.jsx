@@ -81,13 +81,3 @@ export default function About() {
   );
 }
 
-function SocialDot({ icon }) {
-  return (
-    <a
-      href="#"
-      className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition"
-    >
-      {icon}
-    </a>
-  );
-}
