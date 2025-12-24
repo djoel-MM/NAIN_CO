@@ -1,6 +1,6 @@
 import profile from "../assets/profile.jpg";
 import schoolLogo from "../assets/school-logo.png";
-import { Github, Instagram, Linkedin } from "lucide-react";
+
 
 export default function About() {
   return (
